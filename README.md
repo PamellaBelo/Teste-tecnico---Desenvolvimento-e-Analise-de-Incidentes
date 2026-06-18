@@ -25,7 +25,7 @@ judicial-process-manager/
 ### ▶️ Com Docker (recomendado)
 
 ```bash
-git clone <seu-repo>
+git clone https://github.com/PamellaBelo/Teste-tecnico---Desenvolvimento-e-Analise-de-Incidentes.git
 cd judicial-process-manager
 
 docker compose up --build
